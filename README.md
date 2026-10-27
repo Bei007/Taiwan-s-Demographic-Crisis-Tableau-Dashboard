@@ -88,6 +88,4 @@ Datasets cover different periods and may use different definitions or collection
 
 The dashboard describes patterns and comparisons; it does not establish their causes. Projection values depend on assumptions about future fertility, mortality, and migration. Natural change is births minus deaths, while total population change also includes net migration. Comparisons are limited to the economies and periods displayed.
 
-## Author
 
-**Ying Bei Lin** · [Tableau Public profile](https://public.tableau.com/app/profile/ying.bei.lin)
